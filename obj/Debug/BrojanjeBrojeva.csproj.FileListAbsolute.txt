@@ -1,0 +1,7 @@
+C:\Users\rafob\source\repos\BrojanjeBrojeva\bin\Debug\BrojanjeBrojeva.exe.config
+C:\Users\rafob\source\repos\BrojanjeBrojeva\bin\Debug\BrojanjeBrojeva.exe
+C:\Users\rafob\source\repos\BrojanjeBrojeva\bin\Debug\BrojanjeBrojeva.pdb
+C:\Users\rafob\source\repos\BrojanjeBrojeva\obj\Debug\BrojanjeBrojeva.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\BrojanjeBrojeva\obj\Debug\BrojanjeBrojeva.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\BrojanjeBrojeva\obj\Debug\BrojanjeBrojeva.exe
+C:\Users\rafob\source\repos\BrojanjeBrojeva\obj\Debug\BrojanjeBrojeva.pdb
